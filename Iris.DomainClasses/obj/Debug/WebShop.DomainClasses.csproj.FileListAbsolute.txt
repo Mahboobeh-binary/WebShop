@@ -1,0 +1,14 @@
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\bin\Debug\Iris.DomainClasses.dll
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\bin\Debug\Iris.DomainClasses.pdb
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\obj\Debug\WebShop.DomainClasses.csprojResolveAssemblyReference.cache
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\obj\Debug\Iris.DomainClasses.dll
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\obj\Debug\Iris.DomainClasses.pdb
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\bin\Debug\Iris.DomainClasses.dll.config
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\bin\Debug\EntityFramework.dll
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\bin\Debug\EntityFramework.xml
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Projects\WebShop\WebShop\Iris.DomainClasses\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

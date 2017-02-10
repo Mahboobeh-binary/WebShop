@@ -1,0 +1,5 @@
+F:\Projects\WebShop\WebShop\WebShop.ViewModels\bin\Debug\WebShop.ViewModels.dll
+F:\Projects\WebShop\WebShop\WebShop.ViewModels\bin\Debug\WebShop.ViewModels.pdb
+F:\Projects\WebShop\WebShop\WebShop.ViewModels\obj\Debug\WebShop.ViewModels.csprojResolveAssemblyReference.cache
+F:\Projects\WebShop\WebShop\WebShop.ViewModels\obj\Debug\WebShop.ViewModels.dll
+F:\Projects\WebShop\WebShop\WebShop.ViewModels\obj\Debug\WebShop.ViewModels.pdb

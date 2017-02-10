@@ -1,0 +1,5 @@
+F:\Projects\WebShop\WebShop\Utilities\bin\Debug\Utilities.dll
+F:\Projects\WebShop\WebShop\Utilities\bin\Debug\Utilities.pdb
+F:\Projects\WebShop\WebShop\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+F:\Projects\WebShop\WebShop\Utilities\obj\Debug\Utilities.dll
+F:\Projects\WebShop\WebShop\Utilities\obj\Debug\Utilities.pdb

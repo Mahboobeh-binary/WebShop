@@ -1,0 +1,5 @@
+F:\Projects\WebShop\WebShop\WebShop.ServiceLayer\bin\Debug\WebShop.ServiceLayer.dll
+F:\Projects\WebShop\WebShop\WebShop.ServiceLayer\bin\Debug\WebShop.ServiceLayer.pdb
+F:\Projects\WebShop\WebShop\WebShop.ServiceLayer\obj\Debug\WebShop.ServiceLayer.csprojResolveAssemblyReference.cache
+F:\Projects\WebShop\WebShop\WebShop.ServiceLayer\obj\Debug\WebShop.ServiceLayer.dll
+F:\Projects\WebShop\WebShop\WebShop.ServiceLayer\obj\Debug\WebShop.ServiceLayer.pdb

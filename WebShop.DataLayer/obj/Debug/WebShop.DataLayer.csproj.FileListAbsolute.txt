@@ -1,0 +1,5 @@
+F:\Projects\WebShop\WebShop\WebShop.DataLayer\bin\Debug\WebShop.DataLayer.dll
+F:\Projects\WebShop\WebShop\WebShop.DataLayer\bin\Debug\WebShop.DataLayer.pdb
+F:\Projects\WebShop\WebShop\WebShop.DataLayer\obj\Debug\WebShop.DataLayer.dll
+F:\Projects\WebShop\WebShop\WebShop.DataLayer\obj\Debug\WebShop.DataLayer.pdb
+F:\Projects\WebShop\WebShop\WebShop.DataLayer\obj\Debug\WebShop.DataLayer.csprojResolveAssemblyReference.cache

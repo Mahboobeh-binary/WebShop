@@ -1,0 +1,7 @@
+F:\Projects\WebShop\WebShop\AutoMapperContracts\bin\Debug\AutoMapperContracts.dll
+F:\Projects\WebShop\WebShop\AutoMapperContracts\bin\Debug\AutoMapperContracts.pdb
+F:\Projects\WebShop\WebShop\AutoMapperContracts\bin\Debug\AutoMapper.dll
+F:\Projects\WebShop\WebShop\AutoMapperContracts\bin\Debug\AutoMapper.xml
+F:\Projects\WebShop\WebShop\AutoMapperContracts\obj\Debug\AutoMapperContracts.csprojResolveAssemblyReference.cache
+F:\Projects\WebShop\WebShop\AutoMapperContracts\obj\Debug\AutoMapperContracts.dll
+F:\Projects\WebShop\WebShop\AutoMapperContracts\obj\Debug\AutoMapperContracts.pdb
